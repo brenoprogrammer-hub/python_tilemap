@@ -53,7 +53,7 @@ class TileMap:
 class Game:
     def __init__(self):
         self.screen = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
-        pygame.display.set_caption("Tilemap Simples")
+        pygame.display.set_caption("W tilemap")
 
         base = os.path.dirname(__file__)
 
