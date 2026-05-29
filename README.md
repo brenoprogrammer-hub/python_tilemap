@@ -2,6 +2,8 @@
 
 ![preview](screenshot.png)
 
+## current version 1.1.0
+
 ## project estruture
 ```
 tilemap/
@@ -109,3 +111,6 @@ pip install pygame
 ```bash
 python src/main.py
 ```
+
+## 1.1.0 new uptade
+### added scroll system
