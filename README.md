@@ -1,3 +1,7 @@
+## preview
+
+![preview](screenshot.png)
+
 ## project estruture
 ```
 tilemap/
@@ -87,10 +91,6 @@ rules:
 * all assets must be inside the assets folder
 * missing images will cause runtime errors
 * tile size affects the entire rendering scale
-
-## preview
-
-![preview](screenshot.png)
 
 ## how to use
 
